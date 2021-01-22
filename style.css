@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+}
+
+.titulo{
+    font-size: 4em;
+    margin-top: 20px;
+}
+
+
+
+
+body{background-color: azure;
+
+}
+
+.flota{
+    float: right;
+    margin-top: -10px;
+    margin-left: 10px;
+}
+
+.boton{
+
+
+    display: inline-block;
+    background-color: blue;
+    width: 1OOpx;
+    font-size: 1cm;
+    border-radius: 4%;
+    margin-left: 5px;
+    box-shadow: 16px 18px 17px 3px rgba(0,0,0,0.75);
+
+}
+
+
+
+a[href="nysl.html"], a[href="About.html"], a[href="Contact.html"] ,a[href="rules.html"],a[href="game_info.html"], a[href="registration.html"] {
+    color: white;
+    text-decoration: none;
+    margin-top: 10px;
+}
+
+.subtitulo{
+    text-align: center;
+    border:black solid 3px
+}
+
+
+
+.logo{
+    width: 200px;
+    margin-top: 100px;
+    margin-left: 40px;
+}
+.fecha{
+    float: right;
+    margin-top: 100px;
+    margin-right: 10%;
+    font-size: 1 em;
+}
+
+.texto_centrado{
+    display: block;
+    text-align: center;
+}
+
+    
+
+
+.texto_div{
+    display: block;
+    width: 700px;
+    text-align:justify;
+    margin: auto;
+}
+
+
+
+.Borde_tabla{
+    border: 1px solid black;
+    margin:auto;
+}
+
+.table, tr, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding-right:10px;
+    
+
+}
+
+.texto_inferior{
+    margin-top: 30px;
+    text-align:justify;
+
+}
+
+tbody {
+  font-size: 95%;
+  font-style: italic;
+}
+
+.parrafo_info{
+    font-size:3px ;
+}
+
+
+.titulo_h1{
+    display: block;
+    margin-left:auto ;
+    margin-right:auto ;
+
+}
+
+
+.formulario_centro{
+    text-align:justify;
+}
+
+
